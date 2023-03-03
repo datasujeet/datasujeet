@@ -1,10 +1,10 @@
 Hola 👋, I'm Sujeet.
 
-Hi, I'm Sujeet Kumar from Noida🌴,India and currently searching for job in Data Scientist. I am a tech enthusiast and I have a keen interest in the field of A.I and Machine Learning🤖 . I am a continuous learner and strongly believe in contributing to the A.I community.
+Hi, I'm Sujeet Kumar from Noida🌴 India and currently searching for job in Data Scientist. I am a tech enthusiast and I have a keen interest in the field of A.I and Machine Learning🤖. I am a continuous learner and strongly believe in contributing to the A.I community.
 
 Here's what you need to know about me :
 
-👀 Looking for Data Scientist, Machine Learning opportunity . <br>
+👀 Looking for Data Scientist, Machine Learning opportunity. <br>
 💻 I'm a good Storyteller. <br>
 🔭 I am passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. <br>
 🐍 I love to code in Python/SQL . <br>
