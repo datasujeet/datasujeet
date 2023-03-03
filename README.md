@@ -4,16 +4,18 @@ Hi, I'm Sujeet Kumar from Noida🌴,India and currently searching for job in Dat
 
 Here's what you need to know about me :
 
-👀 Looking for Data Scientist, Machine Learning opportunity .
-💻 I'm a good Storyteller.
-🔭 I am passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing.
-🐍 I love to code in Python/SQL .
-💬 Ask me about anything, I am happy to help .
-📫 How to reach me: data.sujeet@gmail.com .
+👀 Looking for Data Scientist, Machine Learning opportunity . <br>
+💻 I'm a good Storyteller. <br>
+🔭 I am passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. <br>
+🐍 I love to code in Python/SQL . <br>
+💬 Ask me about anything, I am happy to help . <br>
+📫 How to reach me: data.sujeet@gmail.com . <br>
+
 Languages ,Tools and Skill:
 
-💻 Python, SQL , kears , Tensorflow, Tableau
-💼 Machine Learning : Regression & Classification, Ensemble Learning , Pipeline, Clustering, Times Series, Feature Engineering, Feature Selection,EDA br>
-💼 Deep Learning/NLP : ANN, RNN, CNN, Transfer Learning, Object detection, Text Preprocessing, TF-IDF, NLTK
-Connect with me:
+💻 Python, SQL , kears , Tensorflow, Tableau <br>
+💼 Machine Learning : Regression & Classification, Ensemble Learning , Pipeline, Clustering, Times Series, Feature Engineering, Feature Selection,EDA <br>
+💼 Deep Learning/NLP : ANN, RNN, CNN, Transfer Learning, Object detection, Text Preprocessing, TF-IDF, NLTK <br>
+
+Connect with me: <br>
 https://www.linkedin.com/in/sujeetdatascience1/
