@@ -6,7 +6,7 @@ Here's what you need to know about me :
 
 👀 Looking for Data Analyst, Data Scientist, Machine Learning opportunity. <br>
 💻 I'm a good Storyteller. <br>
-🔭 I am passionate about Artificial Intelligence, Deep Learning, Machine Learning, NLP & CV. <br>
+🔭 I am passionate about Artificial Intelligence, EDA, Machine Learning, Deep Learning, NLP & CV. <br>
 🐍 I love to code in Python/SQL . <br>
 💬 Ask me about anything, I am happy to help . <br>
 📫 How to reach me: data.sujeet@gmail.com . <br>
