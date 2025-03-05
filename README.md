@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<p align="left"> I'm Sujeet Kumar from Noida🌴 India and currently searching for job in Data Analyst/Data Scientist/ML/NLP/CV. I am a tech enthusiast and having a keen interest in the field of AI, Machine Learning, Deep Learning🤖. I am a continuous learner and strongly believe in contributing to the AI community. </p>
+<p align="left"> I'm Sujeet Kumar from Noida🌴 India and currently searching for job in Data Analyst/Data Scientist/ML/GenAI. I am a tech enthusiast and having a keen interest in the field of AI, Machine Learning, Deep Learning🤖. I am a continuous learner and strongly believe in contributing to the AI community. </p>
 
 Here's what you need to know about me :
 
