@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=नमस्ते+(Namaste)+🙏🏽;+I'm+Sujeet+Kumar+👋🏽;Nice+to+meet+you!+🤝🏽" />
 </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujeetdatascience1/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/data_sujeet) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/datasujeet1/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:praveshagarwal80@gmail.com)](mailto:data.sujeet@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujeetdatascience1/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/data_sujeet) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/datasujeet1/) ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:data.sujeet@gmail.com)
 
-<img align="right" src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/data-science-giphy.gif" width="400" height="340">
+<img align="right" src="https://github.com/datasujeet/datasujeet/blob/main/Project%20Thumbnails/datascience-giphy.gif" width="400" height="340">
 
 <h3>
 Hi, I’m Sujeet Kumar, Data Analyst/Data Science Aspirant & Ex Human Resource Domain Consultant from India 🇮🇳
@@ -46,6 +46,13 @@ Hi, I’m Sujeet Kumar, Data Analyst/Data Science Aspirant & Ex Human Resource D
 </p>
 
 <br>
+
+## <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="30" height="30" align="top"/> Power BI Dashboards:
+<p>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiZmY4ZWVjZWItYWQ1MC00ODliLThhZjAtOWYxYjZhMWEzZjU2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=7215aff20df6b576b6e5"><img src="https://github.com/datasujeet/datasujeet/blob/main/Project%20Thumbnails/HR_Analytics_Dashboard.png" width ="30%"></a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiZDVmNGNhZmUtNGU3Yi00NjU0LWE3MTAtNGM1OTEwZjAwZmRlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"><img src="https://github.com/datasujeet/datasujeet/blob/main/Project%20Thumbnails/Mobile%20Sales_dashboard.png" width ="30%"></a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiNDYzZDA1N2MtMzdjNC00NDVkLWFjMWMtYjBkMDFkMzFkNjA5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection0f13da8902d352482fce"><img src="https://github.com/datasujeet/datasujeet/blob/main/Project%20Thumbnails/Sales_Dashboard_PBI.png" width ="30%"></a>
+</p>
 
 ## 🧑🏽‍🎓 Certificates:
 ### • <img src="https://img.icons8.com/?size=100&id=h5EUmNCXhSH0&format=png&color=000000" alt="HackerRank" width="30" height="30" align="top"/> **HackerRank - Python Basic** [ [Certificate](https://www.hackerrank.com/certificates/07a0626e7bf8) ]
