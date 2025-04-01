@@ -49,9 +49,15 @@ Hi, I’m Sujeet Kumar, Data Analyst/Data Science Aspirant & Ex Human Resource D
 
 ## <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="30" height="30" align="top"/> Power BI Dashboards:
 <p>
-    <a href="https://app.powerbi.com/view?r=eyJrIjoiZmY4ZWVjZWItYWQ1MC00ODliLThhZjAtOWYxYjZhMWEzZjU2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=7215aff20df6b576b6e5"><img src="https://github.com/datasujeet/datasujeet/blob/main/Project%20Thumbnails/HR_Analytics_Dashboard.png" width ="30%"></a>
-    <a href="https://app.powerbi.com/view?r=eyJrIjoiZDVmNGNhZmUtNGU3Yi00NjU0LWE3MTAtNGM1OTEwZjAwZmRlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"><img src="https://github.com/datasujeet/datasujeet/blob/main/Project%20Thumbnails/Mobile%20Sales_dashboard.png" width ="30%"></a>
-    <a href="https://app.powerbi.com/view?r=eyJrIjoiNDYzZDA1N2MtMzdjNC00NDVkLWFjMWMtYjBkMDFkMzFkNjA5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection0f13da8902d352482fce"><img src="https://github.com/datasujeet/datasujeet/blob/main/Project%20Thumbnails/Sales_Dashboard_PBI.png" width ="30%"></a>
+    <a href="https://github.com/datasujeet/HR-Analytics-Dashboard-PowerBI"><img src="https://github.com/datasujeet/datasujeet/blob/main/Project%20Thumbnails/HR_Analytics_Dashboard.png" width ="30%"></a>
+    <a href="https://github.com/datasujeet/Mobile-Sales-Dashboard-Power-BI"><img src="https://github.com/datasujeet/datasujeet/blob/main/Project%20Thumbnails/Mobile%20Sales_dashboard.png" width ="30%"></a>
+    <a href="https://github.com/datasujeet/Sales-Dashboard-PowerBI"><img src="https://github.com/datasujeet/datasujeet/blob/main/Project%20Thumbnails/Sales_Dashboard_PBI.png" width ="30%"></a>
+    <a href="https://github.com/datasujeet/Sales-Dashboard-PowerBI"><img src="https://github.com/datasujeet/datasujeet/blob/main/Project%20Thumbnails/Ecommerce_Sales%20Dashboard.png" width ="30%"></a>
+</p>
+
+## <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="excel" width="30" height="30" align="top"/> Excel Project:
+<p>
+    <img src="https://github.com/datasujeet/datasujeet/blob/main/Project%20Thumbnails/Bank%20Loan%20Report%20Analysis.png" width ="30%"></a>
 </p>
 
 ## 🧑🏽‍🎓 Certificates:
