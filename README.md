@@ -7,7 +7,7 @@
 <img align="right" src="https://github.com/datasujeet/datasujeet/blob/main/Project%20Thumbnails/datascience-giphy.gif" width="400" height="340">
 
 <h3>
-Hi, I’m Sujeet Kumar, Data Analyst/Data Science Aspirant & Ex Human Resource Domain Consultant from India 🇮🇳
+Hi, I’m Sujeet Kumar, Data Analyst/Data Science Aspirant & Ex Human Resource Domain Consultant from India.
 </h3>
 
 - 📊 Passionate about transforming raw data into actionable insights.
@@ -20,7 +20,7 @@ Hi, I’m Sujeet Kumar, Data Analyst/Data Science Aspirant & Ex Human Resource D
   
 - 💬 Feel free to ask me about Data Analysis or My Journey.
   
-- 📫 How to reach me: data.sujeet@gmail.com. 
+- ⚡ Fun fact - **I am a fast learner**
 
 <br>
 
@@ -69,7 +69,7 @@ Hi, I’m Sujeet Kumar, Data Analyst/Data Science Aspirant & Ex Human Resource D
 ## 👦 About Me:
 ### 👋 Hi there!
 
-I'm **Sujeet Kumar**, a passionate data analyst/Data Science with a dynamic background in Human Resource and a knack for uncovering insights that drive impactful decisions. I thrive on solving complex problems with data-driven strategies.
+I'm **Sujeet Kumar**, a passionate data analyst/Data Science with Post Graduation in Data Science, Machine Learning & AI and a knack for uncovering insights that drive impactful decisions. I thrive on solving complex problems with data-driven strategies.
 
 ### 🌟 What I Bring to the Table
 
@@ -99,9 +99,9 @@ Your Next Data Analyst ✨
 </h5>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pravesh-Agarwal/Pravesh-Agarwal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pravesh-Agarwal/Pravesh-Agarwal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Pravesh-Agarwal/Pravesh-Agarwal/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/datasujeet/datasujeet/blob/main/assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/datasujeet/datasujeet/blob/main/assets/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/datasujeet/datasujeet/blob/main/assets/github-snake%20(1).svg" />
 </picture>
 
 
