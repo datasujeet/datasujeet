@@ -57,7 +57,8 @@ Hi, I’m Sujeet Kumar, Data Analyst/Data Science Aspirant & Ex Human Resource D
 
 ## <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="excel" width="30" height="30" align="top"/> Excel Project:
 <p>
-    <img src="https://github.com/datasujeet/datasujeet/blob/main/Project%20Thumbnails/Bank%20Loan%20Report%20Analysis.png" width ="30%"></a>
+    <a href=""><img src="https://github.com/datasujeet/datasujeet/blob/main/Project%20Thumbnails/Bank%20Loan%20Report%20Analysis.png" width ="30%"></a>
+    <a href="https://github.com/datasujeet/Hospital-Emergency-Room-Dashboard"><img src="https://github.com/datasujeet/Hospital-Emergency-Room-Dashboard/blob/main/Excel_Dashboard_Hospital%20Emergency.png" width ="30%"></a>
 </p>
 
 ## 🧑🏽‍🎓 Certificates:
